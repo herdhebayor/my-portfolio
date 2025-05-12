@@ -197,6 +197,7 @@ footer li:hover{
     .intro-image img{
         border-radius: 0;
         width: 100%;
+        height: auto;
         padding: 0;
         border-radius: 5px;
     }
